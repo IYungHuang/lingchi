@@ -1,0 +1,57 @@
+{
+  "scope": "方案 A 文學／因果修訂；非全書法史認證",
+  "protected_originals_count": 26,
+  "changed_originals": [],
+  "changed_manuscript_files": [
+    "prequel/manuscript/law_revision_20261005/appendix.md",
+    "prequel/manuscript/law_revision_20261005/chapter_01.md",
+    "prequel/manuscript/law_revision_20261005/chapter_02.md",
+    "prequel/manuscript/law_revision_20261005/chapter_06.md",
+    "prequel/manuscript/law_revision_20261005/chapter_10.md",
+    "revisions/law_20261005/manuscript/chapter_01.md",
+    "revisions/law_20261005/manuscript/chapter_02.md",
+    "revisions/law_20261005/manuscript/chapter_03.md",
+    "revisions/law_20261005/manuscript/chapter_04.md",
+    "revisions/law_20261005/manuscript/chapter_05.md",
+    "revisions/law_20261005/manuscript/chapter_06.md"
+  ],
+  "chapter_counts": {
+    "prequel": 10,
+    "main_existing": 6
+  },
+  "artifacts": {
+    "凌遲_方案A修訂稿_2026-10-05.md": {
+      "sha256": "1ec2582dc3fd5cb4644dc034dca3e1460c1b0430e4864be63b8b02b72273abb4",
+      "basic_cjk_chars": 34775
+    },
+    "至斬而止_方案A修訂稿_第一至六章_2026-10-05.md": {
+      "sha256": "598a99bd2257f2f51e7df7da7f2647aa08c1dd39009924d2e4df0b942bfb835b",
+      "basic_cjk_chars": 28698
+    }
+  },
+  "part_sha256": {
+    "prequel/manuscript/law_revision_20261005/chapter_01.md": "76272120b31bc85f713cd282eb18207119405a497b6d326567212269af32a7c2",
+    "prequel/manuscript/law_revision_20261005/chapter_02.md": "8a560de2a9e631ff3a092b2d3abda89435f21625eb692c34843fed1377e32426",
+    "prequel/manuscript/law_revision_20261005/chapter_03.md": "ee149b5ad1096dedbef1bd78549eb3167feb20463c45c6c568dd01b33c27040a",
+    "prequel/manuscript/law_revision_20261005/chapter_04.md": "f4f77ab0d7afb9a850ef02b1f35fd01de9e58de1c90529b6776eed79e6d995fc",
+    "prequel/manuscript/law_revision_20261005/chapter_05.md": "25d7fcccf86d16c48437f40eaa68da1327ba051e1e382e3f8a3f26b322cc9de0",
+    "prequel/manuscript/law_revision_20261005/chapter_06.md": "bb46e479a40a3856a6e339397a2aed3286323ca867337c55f9eccdbceb6ddb3b",
+    "prequel/manuscript/law_revision_20261005/chapter_07.md": "f5a646209d21e49c46ced66646fabb0caeb3eb56268ccce05a2a0035c10299e0",
+    "prequel/manuscript/law_revision_20261005/chapter_08.md": "ade31a7d00907bd05f445e4c1c5fd7711073d085ed4b9ab1c2290e8b3608d792",
+    "prequel/manuscript/law_revision_20261005/chapter_09.md": "eec9ccb76dbd0d1b992d7e5dea78b17565a1629a528d537336b68bbf9a355d16",
+    "prequel/manuscript/law_revision_20261005/chapter_10.md": "bc3b1b6ab1ef17fda03f1e180a7dbf92f09497173dc4342ded5bd6815e00e415",
+    "prequel/manuscript/law_revision_20261005/appendix.md": "f4d55460d458f42ef1191139d642ed07317c734bb19e752e2757fd2dbcae2fa1",
+    "revisions/law_20261005/manuscript/chapter_01.md": "914a69c7c16d918e6e27a050d3650f8057e988a710d3dd3213caca3724f1b04c",
+    "revisions/law_20261005/manuscript/chapter_02.md": "347aed847d2ef1401dfad12941f0970122cbbd9560efbd96243777aaa3b4c409",
+    "revisions/law_20261005/manuscript/chapter_03.md": "954b14bc7427394f63bca433b0fef1f3fd184f3fa74c045fceb0641daec859eb",
+    "revisions/law_20261005/manuscript/chapter_04.md": "ab9d81f01d04789a5f3f1fef2f93bf4900bb37b1751d874bb4943d4030876536",
+    "revisions/law_20261005/manuscript/chapter_05.md": "36227d144000bcfbec6c73f2215b134cb892af2da4a0c85b42a95a05d5ab4b9e",
+    "revisions/law_20261005/manuscript/chapter_06.md": "8a32ee635e3cdcf26fbc92bb74b6554358788107fdaadaace71711bf2b532e15"
+  },
+  "final_checks": {
+    "originals_unchanged": true,
+    "parts_frozen": true,
+    "compilations_exact": true,
+    "git_diff_check": "passed"
+  }
+}

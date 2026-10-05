@@ -1,0 +1,19 @@
+{
+  "source": "凌遲_全十卷定稿.md",
+  "source_sha256": "7d7d5b3b8d1a5a1ffc796a53fc3ad9d69e4a74004f463b9819efa365473866c8",
+  "git_base": "733cdf32d9f1f377c3a65d63ab2147dca5cb14a0",
+  "status": "working revision; original retained",
+  "parts": {
+    "appendix.md": "3f8cf8c70f5f44c41dbd9000bc130e177fd7665003f1aaa37e16b8cb9a5d858f",
+    "chapter_01.md": "92b416351d6308cba7ce0ef0fb936a5ffe01a5c9697388d2fca96bafb0792bac",
+    "chapter_02.md": "49cd53b76fe34295448a5b02ffc551c08fe8055576a5e6e0c057c57403a5e7c4",
+    "chapter_03.md": "561ae3c8843f1a577547101494f3294704995b4cae7b0a3539148f976cfcd506",
+    "chapter_04.md": "5d17c3251cdf998b07cd48989388337b89e2da3e22df7268b251629f86b3aa81",
+    "chapter_05.md": "86599e1376c837d7336743c00a9f080f139121b7d8360390ea11f9e9b5e6f8cd",
+    "chapter_06.md": "70d9b26f794fa88af8bb62b56fddb5ffd3490792c72b01a71f9f5aa890518900",
+    "chapter_07.md": "8dd75cb035e3a311ec7b89ca3225a3bb461e3183a16fba2da936713c23e1af19",
+    "chapter_08.md": "74594a07b43e0133dabb5928497b1f732f9ef17185a713f401249d76fca21d88",
+    "chapter_09.md": "0ad17c1c344f9aef17d982836bf51d72666d523f594cce50438a19beb11bfa9c",
+    "chapter_10.md": "022fdef200009f5f2394605f1706a02d8be6c65e7caff3cd4addc657cb620aa9"
+  }
+}

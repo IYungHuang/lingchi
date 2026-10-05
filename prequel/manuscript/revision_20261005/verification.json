@@ -1,0 +1,19 @@
+{
+  "checks": {
+    "original_sha256_unchanged": true,
+    "compiled_matches_parts": true,
+    "exactly_ten_chapters": true,
+    "one_appendix": true,
+    "no_forbidden_secrets_or_removed_clues": true,
+    "no_work_markers_in_body": true,
+    "corrected_blood_petition_present": true,
+    "corrected_dialogue_reference": true,
+    "no_old_repeated_release": true,
+    "retained_copy_and_unassigned_work": true,
+    "protected_tracked_manuscripts_and_shared_unchanged": true
+  },
+  "original_basic_han_including_chapter_titles": 33923,
+  "revised_basic_han_including_chapter_titles": 32783,
+  "compiled_sha256": "699d7778b3ad4a33114e542e918ff0732f8a25ef9dac558a580e9bef7f8beaa1",
+  "limitations": "Structure and text-presence checks supplement manual diff and editor review; not historical or reader-response proof."
+}
