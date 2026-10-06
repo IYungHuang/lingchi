@@ -15,7 +15,7 @@
 
 ## 2026-10-05 現行修訂入口
 
-- 合訂交付：`至斬而止_方案A修訂稿_第一至六章_2026-10-05.md`。本輪驗收詳見 `prequel/reviews/PRE-LAW-EXEC-20261005-chief.md`。
+- 合訂交付：`至斬而止_全書完稿.md`、`至斬而止_精裝閱讀版.html`（2026-10-06，同步自 zhizhanerzhi `revise/law-plan-a`；舊「第一至六章」稿已移除，見 git 歷史）。本輪驗收詳見 `prequel/reviews/PRE-LAW-EXEC-20261005-chief.md`。
 - 使用者批准方案 A；基準 `canon/law_revision_20261005.md`，本輪台帳 `continuity/LAW-20261005.md`。
 - 舊版正文保留於 git 歷史；設定、研究證據中已被本輪否定的說法不得回灌。案情設定以 v2（四命、田界鐵鋪、剔骨尖刀）為準。
 - 法源與1905施行仍有明列缺口；本輪非完整正傳出版終審。
