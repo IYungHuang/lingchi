@@ -14,7 +14,7 @@
 ### 本輪工作入口（2026-10-05）
 
 - 授權：使用者確認出版評估後的調整計劃，要求主編派發作者與跟隨編輯任務，兩位均沿用 `gpt-6-sol`。
-- 閱讀基準：根目錄 `凌遲_全十卷定稿.md`，2026-10-06 起已換為方案 A 修訂版（與 `凌遲_方案A修訂稿_2026-10-05.md` 同文，由 `prequel/manuscript/chapter_01–10.md` 與附錄合編）；2026-10-03 原稿見 git 歷史（`8298e92` 以前）。根目錄 `.html` 為舊版，尚未重建。工作修訂：`prequel/manuscript/revision_20261005/`，由原合訂稿拆章，指紋見其中 `baseline.json`；舊 `prequel/manuscript/chapter_*.md` 不作本輪正文來源。
+- 閱讀基準：根目錄 `凌遲_全十卷定稿.md`，2026-10-06 起已換為方案 A 修訂版（與 `凌遲_方案A修訂稿_2026-10-05.md` 同文，由 `prequel/manuscript/chapter_01–10.md` 與附錄合編）；2026-10-03 原稿見 git 歷史（`8298e92` 以前）。根目錄 `.html` 已於 2026-10-06 由同一份 md 重建。工作修訂：`prequel/manuscript/revision_20261005/`，由原合訂稿拆章，指紋見其中 `baseline.json`；舊 `prequel/manuscript/chapter_*.md` 不作本輪正文來源。
 - 本輪狀態：A1／A2 指定文學與連貫修訂已驗收，交付根目錄 `凌遲_出版修訂稿_2026-10-05.md`；詳見 `reviews/PRE-PUB-20261005-chief.md`。外部試讀與出版史料終審未完成。
 - 法源專項：已完成 PRE-LAW-20261005 有限考證與跨書影響提案；見 `decisions/PRE-LAW-20261005-proposal.md`。使用者已核准方案 A，本輪已驗收交付兩書「方案A修訂稿」；分章為 `prequel/manuscript/law_revision_20261005/` 與正傳 `revisions/law_20261005/manuscript/`，詳見 `reviews/PRE-LAW-EXEC-20261005-chief.md`。原修訂稿保留。不可標為刑律終審通過。
 - 生效裁決：`DEC-PUB-20261005-01` 至 `04`。作者任務 `tasks/PRE-PUB-20261005-A.md`；編輯任務 `tasks/PRE-PUB-20261005-E.md`。
